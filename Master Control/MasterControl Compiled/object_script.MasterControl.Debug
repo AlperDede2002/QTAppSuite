@@ -1,0 +1,12 @@
+debug/addnewuser.o
+debug/adminpage.o
+debug/calculator.o
+debug/main.o
+debug/mastercontrol.o
+debug/notepad.o
+debug/qrc_Recources.o
+debug/moc_addnewuser.o
+debug/moc_adminpage.o
+debug/moc_calculator.o
+debug/moc_mastercontrol.o
+debug/moc_notepad.o

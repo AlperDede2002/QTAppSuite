@@ -1,0 +1,12 @@
+release/addnewuser.o
+release/adminpage.o
+release/calculator.o
+release/main.o
+release/mastercontrol.o
+release/notepad.o
+release/qrc_Recources.o
+release/moc_addnewuser.o
+release/moc_adminpage.o
+release/moc_calculator.o
+release/moc_mastercontrol.o
+release/moc_notepad.o

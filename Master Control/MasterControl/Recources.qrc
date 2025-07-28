@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/icons8-redo-48.png</file>
+        <file>img/icons8-undo-48.png</file>
+        <file>img/Information.svg.png</file>
+        <file>img/new file.png</file>
+        <file>img/paste.png</file>
+        <file>img/pngegg.png</file>
+        <file>img/pngfind.com-file-folder-png-6451683.png</file>
+        <file>img/redo.png</file>
+        <file>img/save as.png</file>
+        <file>img/cut.png</file>
+        <file>img/copy.png</file>
+    </qresource>
+</RCC>
